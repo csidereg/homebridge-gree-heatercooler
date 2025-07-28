@@ -25,9 +25,9 @@ For each AC device you need to add an accessory and specify the IP address of th
     "accessories": [
         {
             "accessory": "GreeHeaterCooler",
-            "host": "192.168.1.X",
-            "name": "Living room AC",
-            "acModel": "Gree V2",
+            "host": "192.168.1.3",
+            "name": "papkaroly",
+            "acModel": "fisher",
             "useTargetTempAsCurrent": true, // for AC W/O builded in temp sensor 
             "updateInterval": 10000
         },
